@@ -7,3 +7,4 @@ gitar
 piano
 drum
 keyboard
+String
