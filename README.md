@@ -6,3 +6,4 @@ gitar
 2tar
 piano
 drum
+keyboard
