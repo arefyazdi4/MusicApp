@@ -8,3 +8,4 @@ piano
 drum
 keyboard
 String
+pad
